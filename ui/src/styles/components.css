@@ -22,7 +22,7 @@
 }
 
 .login-gate__card {
-  width: min(420px, 100%);
+  width: min(520px, 100%);
   background: var(--card);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
